@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Muhammad Umar Khan 👋
 
-<!--
-**umarkhan353/umarkhan353** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Research Professional with experience in Research and Development, specializing in Signal and Image Processing-based ML/DL applications. Currently, I am pursuing my PhD at the **University of Canberra, Australia**.
 
-Here are some ideas to get you started:
+## 📚 Research Profiles
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com.pk/citations?hl=en&user=k0pnkggAAAAJ&view_op=list_works&sortby=pubdate)  
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Muhammad-Umar-Khan-3?ev=hdr_xprf)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Connect with Me
+- 📜 [ORCID](https://orcid.org/0000-0001-6992-6432)
+- 💼 [LinkedIn](https://www.linkedin.com/in/engrumarkhan)
+
+🚀 Always open to research collaborations and discussions!
