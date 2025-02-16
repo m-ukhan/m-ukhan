@@ -1,7 +1,6 @@
 # Hi, I'm Umar 👋
 
-I am a Research Professional specializing in **Signal & Image Processing-based AI/ML** applications.  
-Currently pursuing my **PhD at the University of Canberra, Australia**, under the supervision of [Raul Fernandez Rojas](https://scholar.google.com.pk/citations?user=xfYTKhAAAAAJ&hl=en), [Girija Chetty](https://scholar.google.com.pk/citations?user=AkLmP_sAAAAJ&hl=en), [Roland Goecke](https://scholar.google.com.pk/citations?user=p-BUHOcAAAAJ&hl=en)  
+I am a Research Professional specializing in **Signal & Image Processing-based AI/ML** applications. Currently pursuing my **PhD at the University of Canberra, Australia**, under the supervision of [Raul Fernandez Rojas](https://scholar.google.com.pk/citations?user=xfYTKhAAAAAJ&hl=en), [Girija Chetty](https://scholar.google.com.pk/citations?user=AkLmP_sAAAAJ&hl=en), [Roland Goecke](https://scholar.google.com.pk/citations?user=p-BUHOcAAAAJ&hl=en)  
 
 ## 📚 Research & Publications  
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com.pk/citations?hl=en&user=k0pnkggAAAAJ&view_op=list_works&sortby=pubdate)  
